@@ -15,3 +15,6 @@ Example:
 ```cpp
 #include "socket/socket.h"
 ```
+
+## NOTE:
+Some libraries may depend on another one, that'll be mentioned in the README of that particular library.
